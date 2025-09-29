@@ -1,0 +1,333 @@
+{
+  "main": {
+    "id": "c4ef8b0373106e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "3407045f3e33a84d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72658b8e633ad953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Do"
+            }
+          },
+          {
+            "id": "ce55a0f57d2e1c80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calls/14 August call with Caprae Capital and Kevin Hong for marketing interns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14 August call with Caprae Capital and Kevin Hong for marketing interns"
+            }
+          },
+          {
+            "id": "8a81231ad6d88fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Innovate with AFRL 20 Aug 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Innovate with AFRL 20 Aug 2025"
+            }
+          },
+          {
+            "id": "e2ef08cedaace912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calls/NIST ARIAC 2025 4 Sep competition call.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NIST ARIAC 2025 4 Sep competition call"
+            }
+          },
+          {
+            "id": "6698d23f90c7405d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calls/11 Sep call with Amarjot and Rhode Island Highway authority.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11 Sep call with Amarjot and Rhode Island Highway authority"
+            }
+          },
+          {
+            "id": "6d51180110b58e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calls/16 Sep 2025 Hyperspace Challenge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16 Sep 2025 Hyperspace Challenge"
+            }
+          },
+          {
+            "id": "4fd36d6038d3f0e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calls/16 Sep 2025 Hyperspace Challenge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16 Sep 2025 Hyperspace Challenge"
+            }
+          },
+          {
+            "id": "7f8fb1526f448ce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90_Resources-How_To/README-Defense-BD-Comprehensive.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README-Defense-BD-Comprehensive"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94b42f15ceba38ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "250686c072649f1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "134f1082a5ba70c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dcdf93378a92adde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9963334c2f9e6419",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd024c98b1092ac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b284be3d527893ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99c7c62d447c67dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "90_Resources-How_To/README-Defense-BD-Comprehensive.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README-Defense-BD-Comprehensive"
+            }
+          },
+          {
+            "id": "2db398e5e52baaed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "90_Resources-How_To/README-Defense-BD-Comprehensive.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README-Defense-BD-Comprehensive"
+            }
+          },
+          {
+            "id": "136f9245514d6b8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "41c0c72ca62b9f95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "90_Resources-How_To/README-Defense-BD-Comprehensive.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README-Defense-BD-Comprehensive"
+            }
+          },
+          {
+            "id": "97568f3b410d624e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "134f1082a5ba70c2",
+  "lastOpenFiles": [
+    "35_Pipeline/Backlog.md",
+    "90_Resources-How_To/README-Defense-BD-Comprehensive.md",
+    "90_Resources-How_To/README_for_whole_project.md",
+    "1_README-Defense-BD-Comprehensive.md",
+    "Templates/00_Daily_Note.md",
+    "Templates/README_Templates.md",
+    "Templates/99_Admin_Log.md",
+    "Templates/90_HowTo_Page.md",
+    "Templates/70_MOC_Dashboard.md",
+    "Templates/65_Event_Conference.md",
+    "Templates/60_Intel_Note.md",
+    "Templates/50_Account_Plan.md",
+    "Templates/45_Project.md",
+    "Templates/40_Idea.md",
+    "Templates/35_Kanban_Card.md",
+    "Templates/30_Opportunity.md",
+    "Templates/25_Org.md",
+    "Templates/20_Person.md",
+    "Templates/10_Meeting_Note.md",
+    "Templates/80_Weekly_Review.md",
+    "Templates/70_Account_Plan.md",
+    "Templates/60_Conference.md",
+    "Templates/50_Idea.md",
+    "Templates/40_Opportunity.md",
+    "1_README.md",
+    "99_Admin/How to Use in an Existing Vault.md",
+    "Templates",
+    "99_Admin",
+    "90_Resources-How_To",
+    "70_MOCs-Maps_of_Content",
+    "60_Intel/Competitors",
+    "60_Intel/Programs_and_Tech",
+    "60_Intel/Acronyms",
+    "60_Intel",
+    "40_Ideas",
+    "00_Dashboards",
+    "Pasted image 20250904100633.png",
+    "Pasted image 20250904100616.png",
+    "Pasted image 20250904100606.png",
+    "Pasted image 20250904100004.png",
+    "Pasted image 20250904095853.png",
+    "Pasted image 20250904095727.png",
+    "Pasted image 20250904095715.png",
+    "Pasted image 20250904095446.png",
+    "Pasted image 20250904095248.png",
+    "Pasted image 20250904095114.png"
+  ]
+}
