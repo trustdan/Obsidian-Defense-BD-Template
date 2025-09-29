@@ -99,6 +99,9 @@ Use consistent **frontmatter keys**:
 
 ## 5) MOCs (Maps of Content) – What they look like
 
+<img width="973" height="1087" alt="image" src="https://github.com/user-attachments/assets/2b433e4f-5f4a-47cc-9a3c-f154e1d556de" />
+
+
 > In **Reading view** with **Dataview** enabled, these render as tables.
 
 **People MOC (example render)**  
